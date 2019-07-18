@@ -46,7 +46,7 @@ public class Main {
         int temp;
         while(flag)
         {
-            flag= true;   
+            flag= false;   
 
             for(int i=0;i<sortedArray.length-1;i++)
             {
